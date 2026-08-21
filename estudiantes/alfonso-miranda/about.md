@@ -2,14 +2,14 @@
 
 ## Información básica
 
-- **Programa:** Programa de Docotorado en Ciencias e Innovación en Medicina, Universidad del Desarrollo, generación 2024.
+- **Programa:** Programa de Doctorado en Ciencias e Innovación en Medicina, Universidad del Desarrollo, generación 2024.
 - **Formación previa:** Bioquímico, Universidad de Chile.
-- **Línea de investigación:** Vesículas extracelulares y su interacción con modelos animales
+- **Línea de investigación:** Vesículas extracelulares y su interacción con modelos animales.
 - **GitHub:** [@mirandathens](https://github.com/mirandathens)
 
 ## ¿Por qué este curso?
 
-Espero aprender a realizar análisis transcriptómicos y/o proteómicos del contenido de vesículas extracelulares para integrar ambas aproximaciones al entendimiento de la respuesta iflamatoria en la mucosa intestinal.
+Espero aprender a realizar análisis transcriptómicos y/o proteómicos del contenido de vesículas extracelulares para integrar ambas aproximaciones al entendimiento de la respuesta inflamatoria en la mucosa intestinal.
 
 ## Un dato personal
 
