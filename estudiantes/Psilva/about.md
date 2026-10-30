@@ -4,7 +4,7 @@
 
 - **Programa:** Doctorado Ciencias e Innovación en Medicina (DCIM)
 - **Formación:** Tecnología Médica, Mención Morfofisiopatología y Citodiagnóstico (Uchile)
-- **Línea de investigación:** 
+- **Línea de investigación:** Genómica Funcional de la Fármacorresistencia en Cáncer
 - **GitHub:** [@PatriciaSilva08](https://github.com/PatriciaSilva08)
 
 ## ¿Por qué este curso?
